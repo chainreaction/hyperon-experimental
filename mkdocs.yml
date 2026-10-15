@@ -143,6 +143,7 @@ nav:
   - Minimal Metta specification: minimal-metta.md
   - MeTTa modules: modules_dev.md
   - DAS setup: das_setup.md
+  - Python interface on Termux: build_python_interface_termux.sh
   - Rust API Reference: ./rust/hyperon/index.html
   - C API Reference: ./c/index.html
   - Python API Reference:

@@ -4,6 +4,8 @@
 *.swp
 compile_commands.json
 .cache
+.venv/
+.pytest_cache/
 target/
 Cargo.lock
 .DS_Store
@@ -12,6 +14,8 @@ Cargo.lock
 __pycache__
 CMakeUserPresets.json
 /build
+/c/build
+/c/*/build
 /python/hyperon.egg-info
 /python/dist
 /python/build
